@@ -3,7 +3,7 @@
 ##Objective:
 The primary goal of this project is to analyze customer churn within the banking sector to identify underlying patterns and factors that lead to customer attrition. By understanding these factors, the project aims to develop strategies to improve customer retention and loyalty.
 
-##Scope:
+##Features:
 
 **Data Collection**: 
 Gathering historical customer data from various banking databases, including demographics, account details, transaction history, and customer service interactions.
@@ -26,3 +26,4 @@ Proposing data-driven strategies and recommendations to reduce churn rates, such
 
 **Microsoft PowerBI**: For Data Vizualisation and Interactive Implementation
 
+![Dashboard](https://github.com/krantiParida1/customer_churn_analysis_powerBI/assets/162627413/2bdc100d-22f8-4c3d-acfd-d5d78e32cacd)
